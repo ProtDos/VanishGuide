@@ -11,3 +11,4 @@
 * [NameGenerator](https://name-generator.org.uk), create a name of a person that does not exist
 * [BackgroundChecks](https://backgroundchecks.org), search for public records
 * [CoverYourTracks](https://coveryourtracks.eff.org), check if your browser is clear
+* [WhatsMyName](https://whatsmyname.app), a simple online tool to check where the username has been used
