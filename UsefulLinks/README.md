@@ -12,3 +12,4 @@
 * [BackgroundChecks](https://backgroundchecks.org), search for public records
 * [CoverYourTracks](https://coveryourtracks.eff.org), check if your browser is clear
 * [WhatsMyName](https://whatsmyname.app), a simple online tool to check where the username has been used
+* [TempMail](https://temp-mail.org), a free temprorary mail service to register on nearly any website
