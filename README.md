@@ -7,9 +7,9 @@ This little repo is a guide on how to vanish from the world and cover your track
 ## How to hide online
 
 ### How to avoid catastrophic data leaks:
-* Use Burners, phones that are one-time only. These are old phones you can throw away if you did anything wrong or exposed your location.
-* Use temporary mail services, as seen in "UsefulLinks"
-* For temporary phone service, try using "Google Voice" - US and CA only.
+* Use [Burners](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326), phones that are one-time only. These are old phones you can throw away if you did anything wrong or exposed your location.
+* Use [temporary mail](https://voice.google.com/u/0/about) services, as seen in "UsefulLinks"
+* For temporary phone service, try using [Google Voice](https://voice.google.com/u/0/about) - US and CA only.
 * https://privacy.com lets you create 12 burner credit cards each month for free
 
 ### Hide your identity:
@@ -19,7 +19,7 @@ This little repo is a guide on how to vanish from the world and cover your track
 * Use a [Junk Email Account](https://temp-mail.org) to Handle New Account Details
 * Never give out your real Identity
 * Avoid Giving Out Your Real Payment Details
-* Use RSS to Hide Your Tracks
+* Use [RSS](https://rss.com/) to Hide Your Tracks
 * Delete Spyware to Stay Hidden Online
 * Upgrade Your Social Media Privacy Settings (or don't havy any social media, it's that easy)
 * Log Out of Websites When You're Done
