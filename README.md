@@ -43,11 +43,11 @@ This little repo is a guide on how to vanish from the world and cover your track
 * Watch out for [smishing](https://www.proofpoint.com/us/threat-reference/smishing)
 * Avoid browsing with public network
 * Don’t have active App notifications
-* Avoid Auto-login as much as you can
+* Avoid Auto-login as much as you can and try to use the website without haveing to register on this website
 * Have passwords for different apps
 * Delete apps that you don’t use
 * Always go for the latest operating version of operating systems
-* Encrypt all of your messages, for example with an app like Session
+* Encrypt all of your messages, for example with an app like [Session](https://getsession.org/)
 * [Root your phone](https://www.techradar.com/how-to/how-to-root-your-android-phone) and install a [mac changer](https://apkpure.com/wifi-mac-changer/com.wireless.macchanger) (android only)
 * Have multiple sim cards
 * Never have your phone near your main working station
