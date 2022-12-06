@@ -84,8 +84,20 @@ This little repo is a guide on how to vanish from the world and cover your track
 * When going somewhere important, never bring your phone with you
 
 ### Money
+* regularly withdraw small amounts of money from your bank account, so you won't be a red flag for the bank. Choose random locations for this.
+* don't use banks after withdrawing anything
+* have cryptocurrency: Monero, Ethereum, Bitcoin
+* get a new job: 1) with no contact to people 2) coorporate with many companies 3) if possible work from home
 
 ### You
+* get a completely new hairstyle
+* wear new clothes / style
+* Change your [name](https://github.com/ProtDos/VanishGuide/NameChange)
+* Get a new drivers license / graduation
+* Make new social medias
+* Add friends / universities / workplaces based on your new life
+
+These are only some ways on how to start a new life. You can decide on your own, how you want to start your new life, this is just a basic guide on one way how to do it.
 
 ## Useful Links
 
@@ -102,6 +114,8 @@ This little repo is a guide on how to vanish from the world and cover your track
 * [WhatsMyName](https://whatsmyname.app), a simple online tool to check where the username has been used
 * [TempMail](https://temp-mail.org), a free temprorary mail service to register on nearly any website
 
+## Disclaimer
+My intention with this repo isn't to bring you on starting a new life. The goal is to show people how to stay anonymous online and it shows a way on how to theoratically do it. I am not responsible for any activities based on this project.
 
 ## Sources
 Coming...
