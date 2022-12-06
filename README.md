@@ -13,7 +13,7 @@ This little repo is a guide on how to vanish from the world and cover your track
 * https://privacy.com lets you create 12 burner credit cards each month for free
 
 ### Hide your identity:
-* Use anonymous browsers like TOR to surf the web securely
+* Use anonymous browsers like [TOR](https://www.torproject.org/download/) to surf the web securely
 * Delete your personal information on the web. You can do this manually or pay for a service. Check [LifeWire](https://www.lifewire.com/remove-personal-information-from-internet-3482691) out for more information.
 * Delete and Hide Your Search Habits
 * Use a Junk Email Account to Handle New Account Details
@@ -35,12 +35,12 @@ This little repo is a guide on how to vanish from the world and cover your track
 
 * Be careful of what you install
 * Get the best antivirus possible
-* Use the TOR browser for browsing and as VPN
+* Use the [TOR browser](https://www.torproject.org/download/) for browsing and as VPN
 * Keep your smartphone up to date
 * Always keep your Bluetooth off when in public
-* Create a strong alphanumeric password
+* Create a strong alphanumeric [password](https://passwords-generator.org/)
 * Never leave your phone without password
-* Watch out for smishing
+* Watch out for [smishing](https://www.proofpoint.com/us/threat-reference/smishing)
 * Avoid browsing with public network
 * Don’t have active App notifications
 * Avoid Auto-login as much as you can
