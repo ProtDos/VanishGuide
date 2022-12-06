@@ -56,7 +56,36 @@ This little repo is a guide on how to vanish from the world and cover your track
 
 ## How to start a new life
 
-Coming soon...
+### Social Media
+* Search up random things with your account
+* upload pictures of people that [do not exit](https://thispersondoesnotexist.com)
+* join random groups
+* delete recovery methods
+* max out the number of wrong passwords
+
+### Data
+* delete all data and accounts from you of any platform you have
+
+### Email
+* Sign Up to a bunch of newsletters, reply to them
+* Don't use any of you current email addresses again
+
+### Your computer
+* Install a lot of crypto related software (e.g. miners)
+* Research cryptomining (as a false motive)
+* Change your password to something very ease (e.g. your mothers name / birthday)
+* Search for false locations (you don't plan on visiting) and hotels
+* Lookup random maps / train or bus stations
+* NEVER lookup  important things on this computer / laptop
+
+### Your phone
+* In future only use burners
+* Destroy your current SIM card and make your current phone unusable
+* When going somewhere important, never bring your phone with you
+
+### Money
+
+### You
 
 ## Useful Links
 
