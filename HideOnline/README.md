@@ -22,5 +22,6 @@
 * Set up a strong Firewall
 * Make your online activity more secure, check out [this](https://coveryourtracks.eff.org/) to see how protective your browser is
 * For personal and secure emails use ProtonMail
+* When uploading any pictures delete any metadata
 
 
