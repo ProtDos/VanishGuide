@@ -16,3 +16,7 @@
 * Delete apps that you don’t use
 * Always go for the latest operating version of operating systems
 * Encrypt all of your messages, for example with an app like Session
+* Root your phone and install a mac changer
+* Have multiple sim cards
+* Never have your phone near your main working station
+* Turn off WiFi-autoconnect
