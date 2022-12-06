@@ -16,20 +16,20 @@ This little repo is a guide on how to vanish from the world and cover your track
 * Use anonymous browsers like [TOR](https://www.torproject.org/download/) to surf the web securely
 * Delete your personal information on the web. You can do this manually or pay for a service. Check [LifeWire](https://www.lifewire.com/remove-personal-information-from-internet-3482691) out for more information.
 * Delete and Hide Your Search Habits
-* Use a Junk Email Account to Handle New Account Details
+* Use a [Junk Email Account](https://temp-mail.org) to Handle New Account Details
 * Never give out your real Identity
 * Avoid Giving Out Your Real Payment Details
 * Use RSS to Hide Your Tracks
 * Delete Spyware to Stay Hidden Online
 * Upgrade Your Social Media Privacy Settings (or don't havy any social media, it's that easy)
 * Log Out of Websites When You're Done
-* Use an operating sastem like Tails for an extra layer of privacy
-* Set up a strong Firewall
+* Use an operating sastem like [Tails](https://tails.boum.org/install/download/) for an extra layer of privacy
+* Set up a [strong Firewall](https://www.techradar.com/best/firewall)
 * Make your online activity more secure, check out [this](https://coveryourtracks.eff.org/) to see how protective your browser is
-* For personal and secure emails use ProtonMail
-* When uploading any pictures delete any metadata
-* Change your Mac Address alot
-* Use strong passwords, that you don't use twice. Never send those passwords in any way except a full encrypted, end-to-end service if needed.
+* For personal and secure emails use [ProtonMail](https://protonmail.com)
+* When uploading any pictures [delete any metadata](https://www.adarsus.com/en/remove-metadata-online-document-image-video/)
+* [Change](https://github.com/shilch/macchanger/) your Mac Address alot
+* Use [strong passwords](https://passwords-generator.org/), that you don't use twice. Never send those passwords in any way except a full encrypted, end-to-end service if needed.
 
 ## How to make your phone secure
 
