@@ -8,7 +8,7 @@ This little repo is a guide on how to vanish from the world and cover your track
 
 ### How to avoid catastrophic data leaks:
 * Use [Burners](https://lifehacker.com/how-to-buy-a-burner-phone-1843905326), phones that are one-time only. These are old phones you can throw away if you did anything wrong or exposed your location.
-* Use [temporary mail](https://voice.google.com/u/0/about) services, as seen in "UsefulLinks"
+* Use [temporary mail](https://temp-mail.org) services, as seen in "UsefulLinks"
 * For temporary phone service, try using [Google Voice](https://voice.google.com/u/0/about) - US and CA only.
 * https://privacy.com lets you create 12 burner credit cards each month for free
 
