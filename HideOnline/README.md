@@ -23,5 +23,7 @@
 * Make your online activity more secure, check out [this](https://coveryourtracks.eff.org/) to see how protective your browser is
 * For personal and secure emails use ProtonMail
 * When uploading any pictures delete any metadata
+* Change your Mac Address alot
+* Use strong passwords, that you don't use twice. Never send those passwords in any way except a full encrypted, end-to-end service if needed.
 
 
